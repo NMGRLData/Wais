@@ -1,0 +1,73 @@
+{
+    "aliquot": 5, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "~40 xtal", 
+    "commit": "036963f9e504c9d3c0ad9d6cfd18210e9b360cc1", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 190.0, 
+            "gain": 0
+        }, 
+        "CDD": {
+            "deflection": 50.0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0.0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 400.0, 
+            "gain": 0
+        }, 
+        "L2": {
+            "deflection": 825.0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "jan_co2.py", 
+    "identifier": "65398", 
+    "increment": null, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-287", 
+    "irradiation_level": "G", 
+    "irradiation_position": 3, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "Feldspar", 
+    "measurement": "jan_unknown600_180.py", 
+    "project": "WAIS", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "WAIS", 
+    "sample": "H5-9", 
+    "spec_sha": "ad8224ebc6dbfeb9f5997218dfa5fe690569839d", 
+    "timestamp": "2016-11-11T22:32:19.149020", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "8d5e9bf0-8195-4ff5-9b9f-e95f65693d80"
+}
